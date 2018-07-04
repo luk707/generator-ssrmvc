@@ -16,7 +16,8 @@
     "Side",
     "MVC",
     "Generator",
-    "Yeoman"
+    "Yeoman",
+    "yeoman-generator"
   ],
   "author": "Luke Harris <lukeharris01170@gmail.com>",
   "license": "ISC",
