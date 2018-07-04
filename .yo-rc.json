@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Luke Harris",
+      "authorEmail": "lukeharris01170@gmail.com",
+      "authorUrl": "lukeharris.io"
+    }
+  }
+}
