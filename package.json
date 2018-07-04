@@ -1,0 +1,27 @@
+{
+  "name": "generator-ssrmvc",
+  "version": "1.0.0",
+  "description": "Yeoman generator for a MVC server side react project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luk707/generator-ssrmvc.git"
+  },
+  "keywords": [
+    "React",
+    "Server",
+    "Side",
+    "MVC",
+    "Generator",
+    "Yeoman"
+  ],
+  "author": "Luke Harris <lukeharris01170@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luk707/generator-ssrmvc/issues"
+  },
+  "homepage": "https://github.com/luk707/generator-ssrmvc#readme"
+}
